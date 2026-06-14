@@ -22,10 +22,8 @@ This is the definitive, no‑shortcuts progression guide for **Challenger World 
 10. [Day 1 & the daily routine](#10-day-1-and-daily-routine)
 11. [Week‑by‑week plan (Weeks 1–12)](#11-week-by-week)
 12. [Gear: meso/drop farming, damage gear, armor & Eternals](#12-gear)
-13. [Branches (not a fresh main / Kinesis / F2P)](#13-branches)
-14. [Title order](#14-title-order)
-15. [Events quick‑reference](#15-events-quick-reference)
-16. [Glossary (transcript slang → real names)](#16-glossary)
+13. [Title order](#13-title-order)
+14. [Events quick‑reference](#14-events-quick-reference)
 
 ---
 
@@ -35,7 +33,7 @@ This is the definitive, no‑shortcuts progression guide for **Challenger World 
 - **Challenger World 3 is ~12 weeks long in GMS** (GMS shortened it; KMS ran ~4 months, Dec 18 2025 → Apr 16 2026). That short GMS window is the single most important planning fact — it's why **Hard Kai by week 3** matters for getting two Eternals, and why you progress bosses aggressively instead of farming in place.
 - **Item Burning runs longer than the season** (~21 weeks on the test server) and the **Equipment Rentals last until Nov 10, 2026** — both outlive Challenger World itself, so your burning gear and rentals carry you the whole way.
 - **Day 0** is the few hours *after the game comes up but before the first weekly reset*. If the game launches in time, weeklies and event‑shop stock reset right before the weekly reset — letting you claim some things twice. That double‑dip is the entire point of "sweating" Day 0.
-- **Two reset deadlines every week:** **Event reset is Tuesday** and **Boss reset is Wednesday** (GMS, Western hemisphere). *(KMS resets everything Thursday 12:00 AM — GMS will publish its own reset day; plan around the GMS schedule when it's final.)*
+- **Two reset deadlines every week:** **Event reset is Tuesday** and **Boss reset is Wednesday** (GMS, Western hemisphere).
 
 *The official season timeline (KMS dates shown). GMS compresses this; watch the GMS event page for your exact growth period and World Leap windows.*
 
@@ -206,9 +204,7 @@ Progress bosses roughly in this order. Each tier is a soft "damage check."
 6. **Early Grandis** — Normal Seren, Easy Kalos, Easy Adversary. Lv 275+ recommended; far more complex mechanics — learn them.
 7. **Finale** — Hard Black Mage, Hard Seren, **Hard Kai.** Lv 280+ strongly recommended. Hard BM is doable in tier 6 but slow (~1 hr); at tier 7 it's ~30–35 min. **Hard Kai requires Lv 280 minimum.**
 
-### Sacred Power (SAC) gates for party bossing
-
-Being *solo‑strong* enough for a boss does NOT mean you have enough **Sacred Power** to enter the next party difficulty:
+### Sacred Power (SAC) gates 
 
 | Boss | SAC required |
 |---|---|
@@ -294,7 +290,7 @@ This season's "seal" system. You get **3 Seal Control Rods/day** (even offline, 
 
 <img src="images/breaking-the-seal-2.png" width="300"> <img src="images/seals-core.png" width="120">
 
-### Which seal you can break is gated by your rank (official KMS)
+### Which seal you can break is gated by your rank
 
 | Seal stage | Unlocks at |
 |---|---|
@@ -304,7 +300,7 @@ This season's "seal" system. You get **3 Seal Control Rods/day** (even offline, 
 | Stage 4 (Large) | **Diamond+** |
 | Stage 5 (Extra Large) | **Master+** |
 
-### Core rarity odds per stage (official KMS) — why you wait for higher stages
+### Core rarity odds per stage — why you wait for higher stages
 
 | Stage | Normal | Rare | Epic | Unique | **Legendary** |
 |---|---|---|---|---|---|
@@ -332,10 +328,10 @@ All optional — this is a p2w game — but the core three are a huge power and 
 | Pass | Cost | What it does |
 |---|---|---|
 | **Challenger's Pass** | 19,800 Maple Pts | **Strongly recommended.** +200% normal‑mob damage, +20% EXP for ~2 months, plus big node/frag/cube/booster rewards. |
-| **Genesis (Gene) Pass** | 30,000 **NX only** | **Strongly recommended.** 3× Traces of Darkness (lib ~4 weeks vs ~11), 6‑man Genesis missions, a boss buff (+20 ATK, +20 all stat, +10% boss, +10% IED, +1,000 HP, +150 AF), and a **3% attack Magnificent Soul** on lib. GMS sold 2/account last time. |
-| **Shine Pass / Goddess Pass** | ~35k Maple Pts | Skips you toward ~270. **Shine = Erel/Sia/CTene only;** a **Goddess Pass** is expected for everyone else. Every box reward is identical, just renamed. |
-| **Burning Express Pass** | Varies | Loads of express boosters (juiced, no‑EXP‑cost). |
-| **Burning Pass** | Varies | **Requires Lv 280** — a week‑3+ thing, not Day 0. See below. |
+| **Genesis (Gene) Pass** | 30,000 **NX only** | **Strongly recommended.** 3× Traces of Darkness (lib ~4 weeks vs ~11), 6‑man Genesis missions, a boss buff (+20 ATK, +20 all stat, +10% boss, +10% IED, +1,000 HP, +150 AF), and a **3% attack Magnificent Soul** on lib. |
+| **Shine Pass / Goddess Pass** | ~35k Maple Pts | Skips you toward ~270. **Shine = Erel/Sia/CTene Mule only;** |
+| **Burning Express Pass** | 30,000 NX | Loads of express boosters (juiced, no‑EXP‑cost). |
+| **Momentum Pass** | 50,000 NX | **Requires Lv 280** — a week‑3+ thing, not Day 0. See below. |
 | **Challenger EXP Duo** | 10,000 NX/week | Situational — feeds EXP to a main‑world char. See below. |
 
 ### Challenger's Pass details
@@ -383,9 +379,8 @@ Partner *hunting* EXP is intentionally mediocre (you bank up to 100k Hunting Poi
 
 - **SAVE your Sol Erda "order"/request this week. Do NOT complete it.** It's once per account — claim it the moment you hit 260 (before weekly reset) for free progress (~90–180 frags).
 - **Save your MVP weekly perks** (Forex coupons, etc.) to claim on Day 0 if the game comes up in time.
-- **Preload NX / Maple Points.** Roughly **300k NX / ~$300** covers all the passes. Jando's actual Day 0 spend was ~$110 (Shine Pass + Challenger's Pass + Genesis Pass).
+- **Preload NX / Maple Points.** Roughly **300k NX / ~$300** covers all the passes.
 - **Pick your IGN.** If the name is held by an existing character, delete that character **24 hours before** launch (it must already be in ghost form with the 24‑hr cooldown expired), then be ready to delete the placeholder again at launch.
-- **Pre‑download the client on BOTH Steam and the Nexon launcher.** Race them at launch and kill whichever is slower. (The download itself eats into your Day‑0 window — that's why you preload.)
 
 ---
 
@@ -407,10 +402,10 @@ This is the intense part. Plan for **~3 hours of game uptime before reset** (min
 6. Accept the **Challenger World event** and claim the **creation reward** (top‑right of the Challenger World UI).
 7. **Equip the Maple Pearl set. Use Tera Blink to 200** (~10 min of menu‑gaming; level skills as you go).
 8. **Get 5th job** (very fast now — it blinks you to all the NPCs).
-9. **Claim Hyperburn rewards — but do NOT *use* the Infinite Flame title or ring yet.** Save them; title order matters (see §14). You CAN claim the Infinite Flame coupon from the hyperburn UI, just don't USE it from inventory.
+9. **Claim Hyperburn rewards — but do NOT *use* the Flame titles yet.** Save them; title order matters (see §14). You CAN claim the Infinite Flame coupon from the hyperburn UI, just don't USE it from inventory.
 
    <img src="images/hyper-burning-max-ui.png" width="520">
-10. **Buy the Shine/Goddess Pass premium** (~35k Maple Pts). Redeem the box for the **EXP title + Pendant of the Spirit**; equip and copy the Pendant immediately. Put **EXP into hyper stats.**
+10. **Buy the Shine/Goddess Pass premium** (~35k Maple Pts). Redeem the box for the **EXP title + Pendant of the Spirit**; equip and copy the Pendant immediately. Put **EXP into hyper stats** and Equip the **EXP Title from Shine Pass**
 11. **Redeem 20 node stones → max Holy Symbol** (boosts Strawberry Farm EXP).
 12. **Start Professions + Auto Harvest immediately** — it counts down ~2.5k hits even offline, so the sooner it runs, the sooner you get juice. Start this ASAP so every day you can run the full window.
 13. **Redeem the Challenger's Pass** for the mob‑damage bonus (+200% normal‑mob damage — great for Monster Park Extreme and training).
@@ -445,14 +440,14 @@ Use the Shine/Goddess Pass + Summer Countdown reward boxes. **Use the *untradeab
 ### E. Character setup
 16. **Start the Gene (liberation) quest. Skip the Cernium story.** Don't rush 6th job yet unless you want easier item‑burning bosses (6th job is much faster this patch — do it before or after, your call;). 
 17. **Unlock Ascent** If you do unlock 6th job, unlock your Ascent to have an easier time with early bosses.
-18. **Fuse all Arcane symbols** (visit every town to unlock them first). Between hyperburn (~Lv 7) and the pass (~Lv 10), fusing lands you ~Lv 11–13. 
+18. **Unlock all symbols** — visit every town. Dailies/weeklies push symbols to ~Lv 15 by week 1. **Fuse all Arcane symbols** (visit every town to unlock them first). Between hyperburn (~Lv 7) and the pass (~Lv 10), fusing lands you ~Lv 11–13. 
 19. **Fuse the Cernium symbol.** 
 20. Use the **trait boost potion on Charm** (Charm → final damage via the Insight profession).
 
     <img src="images/authentic-symbol-quest-1.png" width="420"> <img src="images/level-11-authentic-symbol.png" width="160">
-21. **Equip the Burning Boss Accessory box** (**6 pre‑cubed boss accessories**), the **Abyss Hunters ring** (Lv 230 hyperburn reward), and **one Event Ring** (all event rings are identical). In the pendant selector pick **DOM (Dominator) over Abso** from *both* selectors. Put on the **Hyperburn outfit** (Lv 230 reward).
-22. **Unlock all symbols** — visit every town. Dailies/weeklies push symbols to ~Lv 15 by week 1.
-23. **Start every event & activate every pass:** Challenger Partner, Arcane Seal, Burning Beyond, Item Burning PLUS, Night of Phantasms, Burning Express, Auto Harvest — and **activate** Challenger Pass, Shine Pass, Genesis Pass, Burning Express (and Challenger EXP Duo if you're using it).
+21. **Equip the Burning Boss Accessory box**, the **Abyss Hunters ring** (Lv 230 hyperburn reward), and **all Event Rings** (all event rings are identical). In the pendant selector pick **DOM (Dominator) over Abso** from *both* selectors. Put on the **Hyperburn outfit** (Lv 230 reward).
+22. **Start every event** Challenger Partner, Arcane Seal, Burning Beyond, Item Burning PLUS, Night of Phantasms, Auto Harvest 
+23. **Activate every pass:**  activate Challenger Pass, Shine Pass, Genesis Pass, Burning Express.
 
 ### F. Claim & distribute event rewards
 24. Claim the rest of **Summer Countdown + Shine/Goddess Pass:**
@@ -471,8 +466,20 @@ Use the Shine/Goddess Pass + Summer Countdown reward boxes. **Use the *untradeab
 
 ### G. Day‑0 cubing & scrolls
 27. **Event ring selectors (~4):** from Summer Countdown, the **Paid** Lv 210 box selector, and the Lv 210 Hyper Burn Ring Selector Coupon — **pick a *different* ring each time** so you collect all three event rings **+ the Challenger‑exclusive Hyper Burn Eternal Flame ring** (heroic‑only).
-28. **Legendary scrolls (3):** one from Summer Countdown, one from the Lv 260 Shine box (use on a **ring**, not an emblem), one from Winter Survival (Step‑Up Stage 5 gives an Event‑Ring Legendary scroll). Then use **solid cubes** to roll the ring for **item drop.**
-29. **Use as few cubes as possible on Day 0.** Once you hit an item‑drop line, run with it. (Item drop is only really useful for Princess No on Day 0.)
+
+3x Legendary scrolls
+- 1x from Summer Countdown (Ring Only) => Ring 1
+- 1x from the Lv 260 Shine box, 
+- 1x from Winter Survival (Ring Only) => Ring 2
+
+5x Unique scrolls
+- 1x from Summer Countdown => Ring 3
+- 2x from the Lv 230 Shine box and Power of Life, => Frozen Secondary + Accessory
+- 1x from Winter Survival => Ring 4
+- 1x from Night of Phantasms
+
+28. **Legendary scrolls (3):** one from Summer Countdown, one from the Lv 260 Shine box (Save for later), one from Winter Survival (Step‑Up Stage 5 gives an Event‑Ring Legendary scroll). Then use **solid cubes** to roll the ring for **item drop.**
+29. **Cube Rings for Drop/Meso Line.** Once you hit an item‑drop line, run with it. (Item drop is only really useful for Princess No on Day 0.)
 30. **Winter Survival event:** Step‑Up missions hand out a ring selector, a 30‑day spirit pet, cubes, transparent‑equipment coupons, a **Unique Emblem/Secondary box (solo Chaos Vellum)**, and huge symbol vouchers. Knock out the early stages on Day 0. (Full table in §8.)
 
 ### H. Item burning + the Day‑0 money run
@@ -499,7 +506,7 @@ Use the Shine/Goddess Pass + Summer Countdown reward boxes. **Use the *untradeab
 - **~40 frags** from High Mountain auto‑clear
 - **Total Day 0 estimate: ~500+ frags** immediately available
 
-### J. Day‑0 recurring checklist (don't miss any)
+### J. Day‑0 recurring checklist 
 Event check‑ins → set **event buffs to Monster Park XP** (Sacred Power next, then Arcane Force) • daily bosses • weekly bosses • Ursus (~120m/day) • Monster Park (7 runs) • symbol dailies • Monster Park Extreme • weekly symbol quest • **5k mobs** • Challenger World check‑in (1k mobs) • Burning Express check‑in (1k mobs) • claim Challenger Partner XP • High Mountain • Guild Covert • **20 map procs** (the "dog" research mission) • **buy out the shops** (Arcane Seal wands, Express boosters, Mecha Berry, 3× from boss/Challenger shops) • complete **Challenger Pass missions.**
 
 ---
@@ -535,22 +542,6 @@ Event check‑ins → set **event buffs to Monster Park XP** (Sacred Power next,
 
 ### Week 1 — Establish (target Lv 270, ideally 275)
 
-**Bossing (in order):**
-1. Solo **all free bosses** (Hilla → Normal Damien) — nuked with item burning.
-2. Solo **Normal Slime, Easy Lucid, Easy Will.**
-3. Solo **Normal Lucid, Normal Will, Normal Gloom, Normal Darknell.**
-4. Solo **Hard Lotus, Hard Damien, Normal Verus Hilla** (Lv 266+).
-5. Solo **Chaos Tenebris and below** — the main week‑1 goal.
-6. **Try Normal Seren solo.** Clearing it week 1 fast‑tracks item burning (300 crests + Stage 6 boss). Most can't yet — if not, **party Hard Seren / Easy Kalos.**
-
-**Rank climb (claim at each step):**
-- Clear Normal Lucid → **Silver** (10k): claim frags + the **Lv 4 Special Skill Ring** (Restraint/"Roar"), upgrade Hexa.
-- Clear Hard Lotus/Damien + Hard Will → **Gold** (15k).
-- Clear Chaos Gloom / Hard Lucid / Chaos Slime → **Platinum** (20k): claim **300 frags + 5 Sol Erda.**
-- **At Lv 271, clear Normal Kai → Diamond** (40k): claim Legendary pot scroll + cubes + Cozy Winter Set.
-
-**At Lv 270, rent gear** (everything except the free Silver ring). Save **~2 bil** (you need it for both the Chaos Tenebris clear and the rental). All accessories incl. totems ≈ **1.6 bil.** **Rentals last 2 days now** — rent near week's end. Available until **Nov 10, 2026.**
-
 **Character setup this week:**
 - **Inner ability:** 10 Miracle Circulators (Lv 225 hyperburn reward) + Honor → first good line.
 - **Emblem:** Winter Survival Stage 4 box (Unique Emblem) if you cleared Chaos Vellum; else use what you have.
@@ -561,37 +552,59 @@ Event check‑ins → set **event buffs to Monster Park XP** (Sacred Power next,
 - **Arcane Seal:** open for a rare and settle; don't chase tiers yet.
 - **Symbols:** combine the Lv 5 Cernium (hyperburn 260 reward) with Lv 5/10 symbols from the pass; save SAC symbols for Arcus/Odium; distribute Arcane Force selectors evenly.
 
+**Bossing (in order):**
+1. Solo **all free bosses** (Hilla → Normal Damien) — nuked with item burning.
+2. Solo **Normal Slime, Easy Lucid, Easy Will.**
+3. Solo **Normal Lucid, Normal Will, Normal Gloom, Normal Darknell.**
+4. Solo **Hard Lotus, Hard Damien, Normal Verus Hilla** (Lv 266+).
+5. Solo **Chaos Tenebris and below** — the main week‑1 goal.
+6. **Try Normal Seren solo.** Clearing it week 1 fast‑tracks item burning (300 crests + Stage 6 boss). Most can't yet — if not, **party Hard Seren / Easy Kalos.**
+
+**Rank climb (claim at each step):**
+- Clear Easy Lucid in **Practice Mode** → **Silver** (10k): claim frags + the **Lv 4 Special Skill Ring**, upgrade Hexa.
+- **At Lv 270, rent gear** (everything except the free Silver ring). Save **~2 bil** (you need it for both the Chaos Tenebris clear and the rental). All accessories incl. totems ≈ **1.6 bil.** **Rentals last 2 days now** — rent near week's end. Available until **Nov 10, 2026.**
+- Clear Hard Lotus/Damien + Hard Will → **Gold** (15k).
+- Clear CTene / Hard Lucid / Chaos Slime → **Platinum** (20k): claim **300 frags + 5 Sol Erda.**
+- If you need dammage try to tier up your Arcane Seal and/or Emblem/Secondary 
+- **At Lv 271, clear Normal Kai → Diamond** (40k): claim Legendary pot scroll + cubes + Cozy Winter Set.
+- Tier up Arcane Seal to Unique +6
+
 **Items:** roll **5‑line meso, 4‑line drop** across 9 accessories first; *then* hybrids/double‑drop. Always keep **~1.4 bil** banked for next week's rentals.
 
 **Hexa frags this week (~2,300+):** CW missions ~600 · Challenger Shop ~530 · Kai ~30 · Winter Survival ~100 · Burning Beyond ~100 · Shine/Goddess Pass ~300 · High Mountain/Angler 40–95 · Day 0/1 Erda request 90–180.
 
-**Money math (week 1):** Daily bosses ~111m/day · Ursus ~120m/day · Chaos Tenebris‑and‑below weekly ~5.2m (more if you solo N Seren). **Spend ~3.8 bil:** rentals ~1.9 · meso shop ~1.5 · monster tickets ~0.5.
+- **Prepare 3 Tera‑Burning mules:** use your 3 Tera Burning slots to make 3 mules, blink them to 200, gear them with the abundant node stones + free event cubes, and they'll clear Normal Lotus & Damien easily — together generating **~4.2 bil/week** in boss income (huge on Heroic where mesos are scarce). **Save a character slot for the Kinesis hyperburn in July.**
 
-- **Prepare 3 Tera‑Burning mules (Jando's "3 Hayatos" tech):** use your 3 Tera Burning slots to make 3 mules, blink them to 200, gear them with the abundant node stones + free event cubes, and they'll clear Normal Lotus & Damien easily — together generating **~4.2 bil/week** in boss income (huge on Heroic where mesos are scarce). **Save a character slot for the Kinesis hyperburn in July.**
+- Try to Solo **Normal Seren**, if not **Party Easy Kalos/Hard Seren**
 
 ### Week 2 — Push to 280 (target ~280)
 
 - Solo **Normal Seren** (300 crests + the Stage 6 boss).
 - **Party Easy Kalos / Easy Adversary** if you can't solo them.
+- **Crests:** solo **Easy Adversary → 500.** (With week‑1's 300 that's 800 banked → **Stage 5 done.**)
 - **Duo or trio Black Mage before the monthly reset** so Genesis lib is as fast as possible — *don't* take a bigger party than that.
 - **Kill Normal Kai again** (chance at a pitched box).
-- **Crests:** solo **Easy Adversary → 500.** (With week‑1's 300 that's 800 banked → **Stage 5 done.**)
+- Clear **Duo/Trio Black Mage** before June 30
 - **Level for max final damage:** Black Mage wants **Lv 280**; Hard Kai's max damage bonus is at **Lv 285** — 285 is a good early ceiling.
 
 ### Week 3 — Liberate + the Kai gamble (the big week; target ~280+)
 
 - **Solo Black Mage and LIBERATE.** With Genesis Pass, lib is ~4 weeks instead of ~11; after lib you get a **3% attack Magnificent Soul** from any BM commander.
 - Solo **Normal Seren** again.
+- **Party Easy Kalos / Easy Adversary** if you can't solo them.
 - **Crests:** solo **Easy Adversary → 500**, working toward **Stage 6 (Normal Seren boss, 800 crests).**
 - **Now that you're 280:** start **Mecha Berry + Burning Pass + Mechaberry Farm + Nightmare Paradise.** Mecha Berry ≈ **7% EXP/ticket** at 280.
-- **Rank:** Lv 280 + BM/N Seren/E Kalos → **Master** (65k + Normal Kai). Master = **max Arcane Seal gate (Stage 5)** → open seals for Legendary.
+- **Rank:** Lv 280 + BM/N Seren/E Kalos → **Master**.
+- or **Rank:** Lv 283 + BM/N Seren → **Master**.
+- Master = **max Arcane Seal gate (Stage 5)** → open seals for Legendary.
 - **The 2‑Eternal deadline:** you must **solo Hard Kai by Week 3** to make **two** full Eternals before the season ends. Most people won't this early — that's okay. **The math:** ~**12 Kai kills** across the season (e.g. Normal Kai ×2 + Hard Kai ×10) banks enough coins/boxes for **2 Eternal pieces.**
 
 <img src="images/mechaberry-farm.png" width="420">
 
 ### Week 4 — Hard Seren + armor (target ~280–285)
 
-- Solo **Normal Seren** weekly; try **Easy Kalos** solo (250 SAC).
+- Solo **Normal Seren** weekly; try **Easy Kalos/Easy Adversary** solo.
+- If not Party **Easy Kalos/Easy Adversary** or **Normal Kalos/Normal Adversary** depending on your hands
 - **Liberate** if you haven't.
 - **Item burning:** **Solo Hard Seren → 1,000 crests** → push **Stage 6/7.** Major milestone.
 - **Gear:** your liberated Genesis weapon (well‑flamed, half‑lib) already beats the item‑burning weapon — switch to it.
@@ -643,7 +656,7 @@ Because Challenger World has so much normal‑mob damage, **any accessory that c
 
 **Easy pieces:** Silver Blossom Ring (quest) · Treasure Hunter John Ring (~5 min NLC quest) · 2× Event Ring · Zakum Face · Aquatic Letter/Zakum Eye · Dea Sidus/Horntail/Hilla Earrings · Mechinator Pendant (Mariarium) · Greed Pendant (+20% equip drop, doesn't break the 200% cap) · Condensed Power Crystal (pocket).
 
-**Order:** 5‑line meso, 4‑line drop → hybrids/double‑drop → **100% meso + 80% drop.** Grinders: meso% first. Non‑grinders: drop% first (loot bossing gear faster). **Pop the vac pet only once this gear is ready.**
+**Order:** 5‑line meso, 4‑line drop → hybrids/double‑drop → **100% meso + 200% drop.** Grinders: meso% first. Non‑grinders: drop% first (loot bossing gear faster). **Pop the vac pet only once this gear is ready.**
 
 ### 12.2 Damage gear, armor & Eternals
 
@@ -653,7 +666,7 @@ Because Challenger World has so much normal‑mob damage, **any accessory that c
 - **Weapon:** stick with the item‑burning weapon **until you liberate** (a well‑flamed half‑lib Genesis weapon already beats it). Don't build an Arcane weapon if you have the Genesis Pass.
 - **Secondary:** Frozen one; aim for **2‑line Boss%/Attack%.** The upcoming **Astra secondary** (July patch) makes the choice barely matter — any secondary transfers into it later.
 - **Emblem:** 1 IED line is fine at low rank; move to **2‑line Attack% + IED** (never 2‑line IED), then **2‑line Attack%** at Platinum+. (The Diamond passive's single 70% IED source means you need little IED from gear.)
-- **Armor:** item burning carries you a long time; replace one piece at a time with **Ignitia keys** (no set‑effect loss; not usable on Challenger/Eternal/Sengoku).
+- **Armor:** item burning carries you a long time; replace one piece at a time with **Ignitia keys** (no set‑effect loss; not usable on Challenger/Eternal).
 - **Heart:** Lidium (free, Bronze) → Fairy (Week 6) → **Plasma (after Hard Kai).**
 - **Medal:** Vellum or Monster Park medal early.
 - **Android:** free **Challengers Insigniaroid** at Bronze (displays your live rank icon).
@@ -662,36 +675,8 @@ Because Challenger World has so much normal‑mob damage, **any accessory that c
 
 ---
 
-<a name="13-branches"></a>
-## 13. Branches (if you're not a fresh main)
-
-### Maining Erel/Sia/CTene (the default path above)
-Follow §5–§12 exactly. Buy the **Shine Pass** for the 270 fast‑track.
-
-### Maining a non‑Erel/Sia class
-Identical, but use the **Goddess Pass** instead of Shine. Every box reward is the same, just renamed. **No Goddess Pass = no Day‑0 skip** — you'll train through the Arcane River to 260 the slow way (use 5 strawberry from the event shop to help early).
-
-### Maining Kinesis (out ~July 22 / week 6–7) — **this will be painful**
-1. Make an **Erel/Sia/CTene mule first** on Day 0 and run the Shine leveling sequence on it.
-2. **Save for Kinesis:** Pendant of the Spirit, EXP title, Challenger Pass, Genesis Pass (if only 1), Beyond Burning, transparent/max‑inventory coupons.
-3. On the mule: do **NOT** activate Challenger Pass or Genesis Pass — save them. Activate Burning Express.
-4. Mule goals: reach 260–265, party Chaos Tenebris, build 9 lines of drop gear, accumulate resources.
-5. **When Kinesis launches:** dump ALL saved resources onto him. If he has his own Goddess Pass, run the full Day‑0 sequence on him. His week 1 ≈ everyone's week 7. He gets his own hyperburn → his own Beyond Burning / Infinite Flame titles.
-
-### Already have a main (funding mules)
-Make **Erel/Sia/CTene** your stronger mule and **Kinesis** the second. Decide each mule's end goal:
-- **Chaos‑Tenebris boss mule** (stops Lv 271/Diamond): item burning Stage 5–6, no boosters/seal spend, 9 lines of drop gear, party Chaos Tenebris for arcane drops, save frags for Kinesis once you have ~500–1,000.
-- **Legion champ** (280+): buy boosters, progress bosses, push **Master** (max seal gate), follow the full plan, save frags for Kinesis once you have ~2–3k.
-
-Once a mule has enough frags, stop its weeklies and **funnel weekly frags to your main.**
-
-### Free‑to‑play
-Slower everything: train to 260 in the Arcane River (no 270 skip), fewer nodes/frags, weaker one‑shotting, lib likely only at the end (or never), may not clear Hard Kai → may not hit Challenger. You can still build a Legion champ / Chaos‑Tenebris mule — just grind harder. **Your wallet stays intact.**
-
----
-
-<a name="14-title-order"></a>
-## 14. Title order (don't overlap them)
+<a name="13-title-order"></a>
+## 13. Title order (don't overlap them)
 
 You get **three** strong titles across this patch — used back‑to‑back they cover ~**6 months.** Don't waste overlap.
 
@@ -701,8 +686,8 @@ You get **three** strong titles across this patch — used back‑to‑back they
 
 ---
 
-<a name="15-events-quick-reference"></a>
-## 15. Events quick‑reference
+<a name="14-events-quick-reference"></a>
+## 14. Events quick‑reference
 
 ### Arcane Seal (full system in §9)
 3 rods/day (offline), hard cap 20; 30 wands/week (~5m) last 7 days → buy late. Don't chase Legendary before **Stage 4→5** (rate doubles). Hit Legendary once, then dismantle the rest for Seal Energy.
@@ -719,20 +704,6 @@ You get **three** strong titles across this patch — used back‑to‑back they
 
 ### Trace Restore / pitched (long‑term)
 Run weekly (Practice OK — points carry to your main world). Cap **12 Star Spec boxes/day.** Save **390 Pitched Whisper Crystals** for a Genesis Badge before spending. **Don't** run Trace Restore early — it transfers only after Challenger World ends.
-
----
-
-<a name="16-glossary"></a>
-## 16. Glossary (transcript slang & KMS names → real GMS names)
-
-- **Suu** = Lotus · **Dusk** = Gloom · **Dunkel** = Darknell · **Jin Hilla** = Verus Hilla · **Chosen Seren** = Seren · **Watcher Kalos** = Kalos · **First Adversary** = Adversary · **Guardian Angel Slime** = Slime · **Von Bon** = Bon Bon. *(KMS uses the left names; GMS uses the right.)*
-- **C10 / CT / "sea tennis" / Chaos Tenebris** — Chaos Tenebris. **Sea Slime / C Slime** = Chaos Slime. **Cenny / C‑gloom** = Chaos Gloom. **Lomien** = Lotus & Damien.
-- **N/H/E** = Normal/Hard/Easy · **BM** = Black Mage · **N Kai / H Kai** = Normal/Hard Kai.
-- **Frags** = Sol Erda Fragments · **SAC** = Sacred Power · **AF** = Arcane Force · **Lib** = Genesis liberation · **WSE** = Weapon/Secondary/Emblem · **Hexa** = 6th‑job skill cores.
-- **Wapping/WAP** = grinding · **"the dog"** = the research mission (20 map procs / 5k–10k mob missions).
-- **Mecca/Mecha Berry** = high‑EXP training tickets (and **Mechaberry Farm** = the 280+ battle map) · **Magpot** = Magnificent (Union/Legion growth) potion.
-- **Pitched** = Pitched Whisper / Black accessory endgame items · **Crest** = Challenge Crest (item‑burning currency, stages 5–8) · **Ignitia keys** = swap a gear piece without losing set effect.
-- **Arcane Seal** (KMS) = the seal/core system this guide calls Arcane Seal (older guides said "Arcane Seal"). **Insigniaroid** = the rank‑icon android. **Burning Beyond** = the 260→270 burn (older guides called it "Beyond Burning").
 
 ---
 
