@@ -1,8 +1,8 @@
 # MapleStory Challenger World Season 3 — The Complete, Hand‑Held Progression Guide
 
-This is the definitive, no‑shortcuts progression guide for **Challenger World Season 3 (CW3)**. It merges four community guides recorded on the pre‑season test server (Jando's Day 0 checklist, Kobe's Complete Document, the two‑creator "Ultimate Progression Guide," and the written Season 3 doc) **and corrects them against the official KMS ver. 1.2.410 "Crown" patch notes** (the Korean version of this exact update). Every screenshot below is from those official patch notes.
+This is the definitive, no‑shortcuts progression guide for **Challenger World Season 3 (CW3)**. It merges four community guides recorded on the pre‑season test server (Jando's Day 0 checklist, Kobe's Complete Document, Duky's "Ultimate Progression Guide," and the written Season 3 doc).
 
-> **How to read this guide.** This is the *optimal / sweaty* path. It assumes you are **maining** your Challenger World character on **Challenger Heroic**, and that you buy the core passes. If you're free‑to‑play, building a mule, or waiting on Kinesis, jump to **§13 — Branches**. None of this is required to enjoy the season — take what's useful and don't burn yourself out.
+> **How to read this guide.** This is the *optimal / sweaty* path. It assumes you are **maining** your Challenger World character on **Challenger Heroic**, and that you buy the core passes. If you're free‑to‑play, building a mule, or waiting on Kinesis, it may be harder. None of this is required to enjoy the season — take what's useful and don't burn yourself out.
 >
 > **About the numbers.** Where the KMS patch notes give a hard figure (boss HP, crest costs, reward quantities, drop rates), this guide uses the **official KMS value** and flags it. Where only the GMS test‑server transcripts had a number (meso income, level pacing), treat it as an **estimate** that may shift with the final GMS patch notes. KMS and GMS sometimes differ on exact quantities and reset days — those differences are called out inline.
 
@@ -128,7 +128,7 @@ Every Challenger World character gets the **[Challengers Beginner]** skill, whic
 
 <img src="images/challengers-beginner-skill.png" width="240">
 
-| Tier | The skill's cumulative effect (official KMS) |
+| Tier | The skill's cumulative effect |
 |---|---|
 | **Beginner (Lv 260, no rank yet)** | 1.5× EXP · +50 atk/matk · +100% normal‑mob dmg · +30% boss · +30% IED · +30% crit rate · +30% crit dmg · +30% buff dur · +100% stance · +50 all stat · +2,500 HP/MP · +10% summon · +5% CDR · 2× guild contrib · +100% final dmg in Monster Park Extreme |
 | **Bronze** | normal‑mob dmg → **+150%** |
@@ -434,6 +434,24 @@ Use the Shine/Goddess Pass + Summer Countdown reward boxes. **Use the *untradeab
 - *Free* Lv 250 Box => 5k EXP Vouchers
 - **Payed** Lv 260 Box => 10k Advanced EXP Vouchers
 
+### C. Alternative Leveling Path (200→260)
+
+If you wana save ressources for Kenesis/Other Mules follow this route.
+Now that this might hender your progress when trying to reach Har Kai week 3
+
+- Use untradeable vouchers first to save tradeable ones for mules/Kinesis
+
+- Strawberry farm 200->210
+- 1,000 vouchers (Power of Time) → 215
+- 1,000 vouchers (top 210 box) → 220
+- 1,000 vouchers (top 220 box) → 225
+- 5,000 vouchers (bottom 225 box) → 235
+- 2,000 vouchers (top 230 box) + 5,000 vouchers (Power of Fate) → 240
+- 3,000 vouchers (top 240 box) + 10,000 vouchers (bottom 240 box) → 250
+- Claim but don't use 5,000 vouchers from top 250 box
+- Use 1 Mag Pot (from bottom 200 box) + 1 Mag Pot (Summer Countdown) → 255
+- Use remaining vouchers → 260
+
 ### D. Gene weapon + Genesis (Gene) Pass
 15. **Grab the Gene weapon, redeem the Genesis Pass, and PROC it now.** Remember it's **30k NX, not Maple Points.** Its boss buff (+20 ATK, +20 all stat, +10% boss, +10% IED, +1,000 HP, +150 AF) applies on **Black Mage commanders and above only** — not Slime or early Grandis.
 
@@ -552,14 +570,6 @@ Event check‑ins → set **event buffs to Monster Park XP** (Sacred Power next,
 - **Arcane Seal:** open for a rare and settle; don't chase tiers yet.
 - **Symbols:** combine the Lv 5 Cernium (hyperburn 260 reward) with Lv 5/10 symbols from the pass; save SAC symbols for Arcus/Odium; distribute Arcane Force selectors evenly.
 
-**Bossing (in order):**
-1. Solo **all free bosses** (Hilla → Normal Damien) — nuked with item burning.
-2. Solo **Normal Slime, Easy Lucid, Easy Will.**
-3. Solo **Normal Lucid, Normal Will, Normal Gloom, Normal Darknell.**
-4. Solo **Hard Lotus, Hard Damien, Normal Verus Hilla** (Lv 266+).
-5. Solo **Chaos Tenebris and below** — the main week‑1 goal.
-6. **Try Normal Seren solo.** Clearing it week 1 fast‑tracks item burning (300 crests + Stage 6 boss). Most can't yet — if not, **party Hard Seren / Easy Kalos.**
-
 **Rank climb (claim at each step):**
 - Clear Easy Lucid in **Practice Mode** → **Silver** (10k): claim frags + the **Lv 4 Special Skill Ring**, upgrade Hexa.
 - **At Lv 270, rent gear** (everything except the free Silver ring). Save **~2 bil** (you need it for both the Chaos Tenebris clear and the rental). All accessories incl. totems ≈ **1.6 bil.** **Rentals last 2 days now** — rent near week's end. Available until **Nov 10, 2026.**
@@ -575,7 +585,7 @@ Event check‑ins → set **event buffs to Monster Park XP** (Sacred Power next,
 
 - **Prepare 3 Tera‑Burning mules:** use your 3 Tera Burning slots to make 3 mules, blink them to 200, gear them with the abundant node stones + free event cubes, and they'll clear Normal Lotus & Damien easily — together generating **~4.2 bil/week** in boss income (huge on Heroic where mesos are scarce). **Save a character slot for the Kinesis hyperburn in July.**
 
-- Try to Solo **Normal Seren**, if not **Party Easy Kalos/Hard Seren**
+- **Try Normal Seren solo.** Clearing it week 1 fast‑tracks item burning (300 crests + Stage 6 boss). Most can't yet — if not, **party Hard Seren / Easy Kalos.**
 
 ### Week 2 — Push to 280 (target ~280)
 
@@ -692,7 +702,7 @@ You get **three** strong titles across this patch — used back‑to‑back they
 ### Arcane Seal (full system in §9)
 3 rods/day (offline), hard cap 20; 30 wands/week (~5m) last 7 days → buy late. Don't chase Legendary before **Stage 4→5** (rate doubles). Hit Legendary once, then dismantle the rest for Seal Energy.
 
-### Challenger Shop (official KMS — buy these out weekly)
+### Challenger Shop
 **General coins:** 3× EXP Coupon (100c, **7/wk**) · Selective VIP Buff (30c) · **Sol Erda Fragment (40c, limit 500)** · Sol Erda (2000c, 5) · Strange Cube (5c) · Meister Cube (100c, 100) · Strange Additional Cube (20c) · 100% Epic/Additional pot scrolls (150c, 30 each) · 17★ scroll (3000c, 3) · 1000 Spell Traces (100c).
 **Special (Advanced) coins:** Abyss Rebirth Flame (1c, 150) · **10 frags (1c, limit 10 = 100 frags)** · Sol Erda (3c, 20) · Black Cube (1c, 20) · White Additional Cube (2c, 20).
 > So the shop yields **~600 frags/week** (500 via regular coins + 100 via advanced). Buy 3× from the boss coin shop too.
@@ -709,4 +719,8 @@ Run weekly (Practice OK — points carry to your main world). Cap **12 Star Spec
 
 ### Sources & accuracy
 
-This guide synthesizes four GMS community guides recorded on the CW3 pre‑season **test server**, then verifies and corrects every hard number against the **official KMS ver. 1.2.410 "MapleStory Crown" patch notes** (the Korean version of this update). All screenshots are from those patch notes. **KMS and GMS sometimes differ** on exact quantities, reset days (KMS resets Thursday; GMS has used Tue/Wed), and event dates — where the GMS patch notes contradict a figure here, the GMS notes win. As the creators themselves stress: optimizing this hard all season will burn you out — **set your own pace and make sure you're having fun.**
+- [MapleStory Challenger World 3 Ultimate Progression Guide](https://www.youtube.com/watch?v=RMPO6cgyx8E)
+- [MapleStory Challengers World Season 3 COMPLETE DOCUMENT!! (Gearing, Progression, Events, & More!)](https://www.youtube.com/watch?v=1-q1KGeAiEU)
+- [Challenger World Day 0 Checklist | Maplestory](https://www.youtube.com/watch?v=-f3ne28xlTY)
+
+This guide synthesizes four GMS community guides recorded on the CW3 pre‑season **test server**, then verifies and corrects every hard number against the **official KMS ver. 1.2.410 "MapleStory Crown" patch notes**. All screenshots are from those patch notes. **KMS and GMS sometimes differ** on exact quantities. As the creators themselves stress: optimizing this hard all season will burn you out — **set your own pace and make sure you're having fun.**
