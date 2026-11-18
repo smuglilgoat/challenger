@@ -1,73 +1,41 @@
-# React + TypeScript + Vite
+# Challenger
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive progression tracker for the MapleStory **Challenger World Season 3** event.
 
-Currently, two official plugins are available:
+## What it does
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The app turns the Season 3 progression guide into a checklist organized by phase:
 
-## React Compiler
+- tabs for progression, ranks and rewards, bosses, burning systems, item burning, Arcane Seal, passes, gear and events;
+- per-step checkboxes, sub-steps and notes, with overall progress bars and a current-week indicator;
+- light/dark themes.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Progress and notes are saved in the browser's `localStorage`; there is no backend or account.
 
-## Expanding the ESLint configuration
+The written source material lives in the repository:
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- `Challenger_World_S3_COMPLETE_Progression_Guide.md` — the full guide, with sources and KMS/GMS caveats;
+- `docs/` — Korean patch notes, the written guide and video transcripts used to build it;
+- `src/data/*.ts` — the typed data the UI renders.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## Stack
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+- React 19 + TypeScript, Vite 8
+- Tailwind CSS 4, shadcn/ui on Base UI, lucide icons
+- ESLint
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+## Getting started
+
+```bash
+npm install
+npm run dev        # Vite dev server
+npm run build      # tsc -b && vite build
+npm run lint
+npm run preview    # serve the production build
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## Notes
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- The guide targets Season 3; numbers taken from KMS or test-server transcripts are flagged as such in the source guide.
+- `images/` holds the screenshots referenced by the written guide.
+- No deployment configuration is included in the repository.
